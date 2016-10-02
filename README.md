@@ -1,2 +1,1 @@
-# HTML_Session_6Assignment_3
-HTML_Session_6Assignment_3
+Write a JavaScript program to display the sum up to 1000 using for and while loop and display the output in console.
